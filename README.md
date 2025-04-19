@@ -1,1 +1,14 @@
-# PCIeSplitterCard
+# 项目名称
+开源PCIe拆分卡，支持PCIe4.0和5.0，兼容3.0；用于将PCIe x16直接拆分成PCIe(8+8)
+
+## 简介
+阻抗匹配设计中使用了85欧姆,并对差分信号线做了等长设计处理。PCB 中的金手指禁止区有一些 DRC 检查错误，可以直接忽略，不影响直接使用。
+
+## 注意
+在下单生产时，请务必选择JLC3313板材。
+
+## 展示（未打样测试）
+![f95bde1a91ccb020f1bf398767b1bc7](https://github.com/user-attachments/assets/f988503e-7523-47a1-b81a-d912de347ff2)
+
+
+  
